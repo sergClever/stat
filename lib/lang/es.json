@@ -1,0 +1,18 @@
+
+{
+   "yes": "Sí",
+   "my": "Mi",
+   "edit": "Editar",
+   "profile_updated": "Perfil Actualizado",
+   "update": "Actualizar",
+   "updated": "Actualizado",
+   "cancel": "Cancelar",
+   "save": "Salvar",
+   "settings": "Configuraciones",
+   "system_settings": "Ajustes del sistema",
+   "log_out": "Cerrar sesión",
+   "enter_your_error": "Entra tu",
+   "enter_your_name": "Introduzca su nombre",
+   "dialog_system_settings": "¿Estás seguro de que quieres ir a la configuración del sistema?",
+   "dialog_log_out": "¿Estás seguro de que quieres cerrar sesión?"
+}
