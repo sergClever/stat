@@ -1,0 +1,18 @@
+
+{
+   "yes": "Yes",
+   "my": "My",
+   "edit": "Edit",
+   "profile_updated": "Profile Updated",
+   "update": "Update",
+   "updated": "Updated",
+   "cancel": "Cancel",
+   "save": "Save",
+   "settings": "Settings",
+   "system_settings": "System Settings",
+   "log_out": "Log Out",
+   "enter_your_error": "Enter your",
+   "enter_your_name": "Enter your name",
+   "dialog_system_settings": "Are you sure you want to go to the system settings?",
+   "dialog_log_out": "Are you sure you want to log out?"
+}
